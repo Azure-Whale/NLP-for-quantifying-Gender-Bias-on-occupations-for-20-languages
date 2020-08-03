@@ -1,7 +1,6 @@
 # Gender-Bias-on-occupations-for-157-languages
 ## Goal
-Applied multiple word embeddings such as Fasttext, Word2vec and Glove to quantify gender bias existing in occupations over 100+ countries(20+ languages) from 1800 to 1900
-Quantified bias would be used to study the potential bias and undiscovered stereotypes
+Applied multiple word embeddings such as Fasttext, Word2vec and Glove to quantify gender bias existing in occupations over 100+ countries(20+ languages) through 20 years from now. Quantified bias would be used to study the potential bias and undiscovered stereotypes. Here, I only present results of gender bias on occupations.
 ## Data Collection
 You may chekc our data here: http://data.statmt.org/news-crawl/
 The data is mainly the scripted news materials from different newspaper all over the world and it was categorized as multiple languages, we had chosen 20+ languages after considering the size of the text collected for each languages and the quality after we had measured preliminarily
