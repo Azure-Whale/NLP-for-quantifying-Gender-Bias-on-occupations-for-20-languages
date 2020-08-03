@@ -19,7 +19,16 @@ To observe the gender bias, we need an area or topic to present the difference b
 
 ## Results
 The results have been visualized within matplotlib, and I also attached them as excel.
-
+To compelte the visualization we need to a reference language which is English, we automatly translate all the words into English within Google Translator API
+### Gender bias quantify for serveral languages
+![Chinese](https://github.com/Azure-Whale/NLP-for-quantifying-Gender-Bias-on-occupations-for-20-languages/blob/master/Results/Chinese.png)
+![English](https://github.com/Azure-Whale/NLP-for-quantifying-Gender-Bias-on-occupations-for-20-languages/blob/master/Results/English.png)
+![Dutch](https://github.com/Azure-Whale/NLP-for-quantifying-Gender-Bias-on-occupations-for-20-languages/blob/master/Results/Dutch.png)
+![Finnish](https://github.com/Azure-Whale/NLP-for-quantifying-Gender-Bias-on-occupations-for-20-languages/blob/master/Results/Finnish.png)
+![Hindi](https://github.com/Azure-Whale/NLP-for-quantifying-Gender-Bias-on-occupations-for-20-languages/blob/master/Results/Hindi.png)
+### Clustering based on similar scores
+![Clustering](https://github.com/Azure-Whale/NLP-for-quantifying-Gender-Bias-on-occupations-for-20-languages/blob/master/Table/hierarchical%20map_39.png)
+![heatmap](https://github.com/Azure-Whale/NLP-for-quantifying-Gender-Bias-on-occupations-for-20-languages/blob/master/Table/Visualization/Revised_HeatMap.png)
 ## Conclusion
 languages used among poor countries may had significant bias while languages used among developed countries may have relative fair gender balance
 languages share the same culture and have the same bias. Say, bias from languages from Asia are similar and so do the Latin languages.
