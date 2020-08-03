@@ -1,3 +1,12 @@
+# Gender-Bias-on-occupations-for-157-languages
+## Goal
+Applied multiple word embeddings such as Fasttext, Word2vec and Glove to quantify gender bias existing in occupations over 100+ countries(20+ languages) from 1800 to 1900
+Quantified bias would be used to study the potential bias and undiscovered stereotypes
+## Data Collection
+You may chekc our data here: http://data.statmt.org/news-crawl/
+The data is mainly the scripted news materials from different newspaper all over the world and it was categorized as multiple languages, we had chosen 20+ languages after considering the size of the text collected for each languages and the quality after we had measured preliminarily
+## Data preprocesssing
+Given clean data, I used nltk to tokenize, lemmatize and filter the data.
 ## Method to quantify the gender bias
 To observe the gender bias, we need an area or topic to present the difference between male and female. The occupations could perfectly present the bias nowadays, though we actually measure the bias on multiple other topics and I only present a single part of topics I had studied.
 1. Select groups of words about occupations, male and female related words, such as (driver, football player..),(male, boy..) and (female, girl..)
@@ -15,3 +24,4 @@ The results have been visualized within matplotlib, and I also attached them as 
 languages used among poor countries may had significant bias while languages used among developed countries may have relative fair gender balance
 languages share the same culture and have the same bias. Say, bias from languages from Asia are similar and so do the Latin languages.
 Bias from different languages vary from countries to countries. Some areas have significant gender bias on occupations.
+
