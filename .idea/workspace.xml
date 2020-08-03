@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="870dc9dd-67c7-4d9f-b4d4-aec061b3a702" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Clusterings/K-Means.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Correlation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Correlation_Files/HeatMap_for_corr_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Correlation_Files/Hierarchical Clustering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Correlation_Matrix_Generation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gender_Bias_aligned/CombineTablesIntoOne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gender_Bias_aligned/Gender_Occ_Bias.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heatmap_Functions/Heat Map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heatmap_Functions/HeatMap_for_corr_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Irrelavant/Get avg bias &amp;generate plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Irrelavant/To_DataFrame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Irrelavant/hw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Occupation_avg_bias.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/Summary/Average bias for each occ.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/Summary/Average bias for each occ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Whole View On Average Bias.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/embedding_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gender_occ_bias.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Religion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Gender_Bias.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Heat&amp;Hierarchical Map.py" beforeDir="false" afterPath="$PROJECT_DIR$/Heatmap_Functions/Heat&amp;Hierarchical Map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scatter Polt Generate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scatter Polt Generate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table/hierarchical map_39.png" beforeDir="false" afterPath="$PROJECT_DIR$/Table/hierarchical map_39.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapping.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/religion bias.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/revise corr matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Irrelavant/revise corr matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Arabic.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Arabic.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Azerbaijani.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Azerbaijani.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Bengali.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Bengali.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Bulgarian.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Bulgarian.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Catalan.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Catalan.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Chinese.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Chinese.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Croatian.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Croatian.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Czech.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Czech.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Danish.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Danish.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Dutch.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Dutch.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/English.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/English.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/English_model.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Estonian.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Estonian.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Finnish.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Finnish.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/French.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/French.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/German.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/German.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Greek.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Greek.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Hebrew.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Hebrew.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Hindi.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Hindi.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Hungarian.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Hungarian.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Indonesian.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Indonesian.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Italian.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Italian.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Japanese.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Japanese.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Latvian.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Latvian.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Lithuanian.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Lithuanian.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Norwegian (Bokmål).csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Norwegian (Bokmål).csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Persian.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Persian.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Polish.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Polish.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Portuguese.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Portuguese.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Romanian.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Romanian.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Russian.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Russian.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Serbian.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Serbian.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Slovak.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Slovak.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Slovenian.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Slovenian.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Spanish.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Spanish.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Swedish.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Swedish.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Thai.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Thai.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Turkish.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Turkish.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Ukrainian.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Ukrainian.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Urdu.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlists/religion_Translations/Urdu.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlists/religion_Translations/Vietnames.csv" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Religion" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Vj8VMztuoZRNdoBl1fUgf5Vpii" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Results/Summary" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Night\Desktop\python_work\project\Gender_Occ_Bias\Results\Summary" />
+      <recent name="C:\Users\Night\Desktop\python_work\project\Gender_Occ_Bias\Irrelavant" />
+      <recent name="C:\Users\Night\Desktop\python_work\project\Gender_Occ_Bias\Clusterings" />
+      <recent name="C:\Users\Night\Desktop\python_work\project\Religion\Correlation_Files" />
+      <recent name="C:\Users\Night\Desktop\python_work\project\Religion" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Night\Desktop\python_work\project\Gender_Occ_Bias\Results\Summary" />
+      <recent name="C:\Users\Night\Desktop\python_work\project\Gender_Occ_Bias" />
+      <recent name="C:\Users\Night\Desktop\python_work\project\Religion\Correlation_Files" />
+      <recent name="C:\Users\Night\Desktop\python_work\project\Religion\Heatmap_Functions" />
+      <recent name="C:\Users\Night\Desktop\python_work\Religion" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Correlation">
+    <configuration name="Correlation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Gender_Bias" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Correlation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Correlation_Matrix_Generation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Gender_Bias" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Correlation_Matrix_Generation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Occupation_avg_bias" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Gender_Bias" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Occupation_avg_bias.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Whole View On Average Bias" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Gender_Bias" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Whole View On Average Bias.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="haha" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Gender_Bias" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Irrelavant" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Irrelavant/haha.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Correlation" />
+        <item itemvalue="Python.Correlation_Matrix_Generation" />
+        <item itemvalue="Python.haha" />
+        <item itemvalue="Python.Occupation_avg_bias" />
+        <item itemvalue="Python.Whole View On Average Bias" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="870dc9dd-67c7-4d9f-b4d4-aec061b3a702" name="Default Changelist" comment="" />
+      <created>1577755166369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577755166369</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
