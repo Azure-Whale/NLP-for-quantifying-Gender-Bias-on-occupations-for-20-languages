@@ -35,7 +35,9 @@ Hindi
 ### Clustering based on similar scores
 ![Clustering](https://github.com/Azure-Whale/NLP-for-quantifying-Gender-Bias-on-occupations-for-20-languages/blob/master/Table/hierarchical%20map_39.png)
 ## Conclusion
-1.languages used among poor countries may had significant bias while languages used among developed countries may have relative fair gender balance\n
-2.languages share the same culture and have the same bias. Say, bias from languages from Asia are similar and so do the Latin languages.
-3.Bias from different languages vary from countries to countries. Some areas have significant gender bias on occupations.
+1.languages used among poor countries may had significant bias while languages used among developed countries may have relative fair gender balance
+
+2.languages share the same culture and have the same bias. Say, bias from languages from Asia are similar and so do the Latin languages
+
+3.Bias from different languages vary from countries to countries. Some areas have significant gender bias on occupations
 
